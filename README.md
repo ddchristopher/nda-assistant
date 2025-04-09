@@ -1,6 +1,6 @@
 # AI Assistant for NDA Redlining
 
-This project demonstrates an AI-powered assistant designed to analyze Non-Disclosure Agreements (NDAs). It leverages the OpenAI Assistants API with Vector Stores to summarize the contract, identify key clauses, and provide redline suggestions based on a pre-defined negotiation playbook.
+This project demonstrates an AI-powered assistant designed to analyze Non-Disclosure Agreements (NDAs). It leverages the OpenAI Responses API with Vector Stores to summarize the contract, identify key clauses, and provide redline suggestions based on a pre-defined negotiation playbook.
 
 ## Overview
 
